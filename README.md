@@ -1,5 +1,5 @@
 ---
-# Myfont
+# Utara
 
 Short description of Demo Font. Read more about this [project](https://github.com/raphaelbastide/Unified-Font-Repository/blob/master/ABOUT.en_us.md)
 
